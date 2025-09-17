@@ -1,4 +1,4 @@
-# Retail & Wholesale Inventory & Sales Analysis
+# Wholesale Inventory & Sales Analysis
 
 ## Business Problem
 Effective inventory and sales management are critical for optimizing profitability in the retail and wholesale industry. Companies often face challenges such as:
