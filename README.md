@@ -74,7 +74,8 @@ Effective inventory and sales management are critical for optimizing profitabili
 ## Tools & Technologies
 - Python (Pandas, NumPy, Matplotlib, Seaborn, SciPy, Statsmodels)  
 - SQL (purchase and sales data queries)  
-- Jupyter Notebook (analysis and visualization)  
+- Jupyter Notebook (analysis and visualization)
+- PowerBI (Dashboard and visualization)  
 
 ---
 
